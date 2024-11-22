@@ -1,0 +1,11 @@
+currency_id,name,iso3_code,active
+1,US Dollar,USD,True
+2,Euro,EUR,True
+3,British Pound,GBP,True
+4,Japanese Yen,JPY,True
+5,Canadian Dollar,CAD,True
+6,Australian Dollar,AUD,True
+7,Swiss Franc,CHF,True
+8,Chinese Yuan,CNY,True
+9,Indian Rupee,INR,True
+10,South Korean Won,KRW,True

@@ -1,0 +1,16 @@
+investment_type_id,investment_type_name
+1,Stocks
+2,Bonds
+3,Mutual Funds
+4,Cryptocurrency
+5,Real Estate
+6,Exchange-Traded Funds (ETFs)
+7,Options
+8,Commodities
+9,Forex (Foreign Exchange)
+10,Hedge Funds
+11,Private Equity
+12,Peer-to-Peer Lending
+13,"Collectibles (Art, Antiques, etc.)"
+14,Savings Accounts
+15,Certificates of Deposit (CDs)
